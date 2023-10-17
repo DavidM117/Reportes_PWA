@@ -9,7 +9,7 @@ const DYNAMIC = 'dynamicv1'
 
 const APP_SHELL = [
     '/',
-    '/index.html',
+    'index.html',
     'js/app.js',
     'img/images.jpg',
     'css/styles.css',
